@@ -1,0 +1,9 @@
+{
+	"name": "up3datafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ea4f2134-8e74-4c21-965e-e96dfdc6027f",
+		"tenantId": "6c026edb-6570-4e2d-b2dd-ff655f289229"
+	}
+}

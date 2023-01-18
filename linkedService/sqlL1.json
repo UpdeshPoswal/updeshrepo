@@ -1,0 +1,12 @@
+{
+	"name": "sqlL1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=up3servername.database.windows.net;initial catalog=up3databae;user id=updesh",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDkzNTczRkI4LTg5MDMtNEQ3NC04OEUzLUFFOTc2NDk1MkIyNV85ODI1MjE0Ny1hODZjLTQ3ODEtYWVlNy0xZjQwNjgzY2UyNDkiDQp9"
+		}
+	}
+}
